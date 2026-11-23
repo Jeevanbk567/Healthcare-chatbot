@@ -1,2 +1,3 @@
-# Healthcare-chatbot
-An interactive web-based Healthcare Chatbot built with Python, NLTK, Scikit-learn, and Flask. Using TF-IDF and cosine similarity, it analyzes symptoms to suggest conditions, medications, scans, and diets, while offering pincode-based nearby doctor lookups with specialist details and timings.
+# Healthcare-chatbot-using-NLP
+Healthcare chatbot using NLP is a chatbot. It is AI oriented which predicts the health issues of the user based on symptoms and disease. And it also suggest analgesics, treatment scans, diet for that predicted disease.
+Based on the pincodes, the bot also suggests the Doctors available.

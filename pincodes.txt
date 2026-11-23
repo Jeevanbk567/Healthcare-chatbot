@@ -1,0 +1,48 @@
+570001-->
+Name:DR. Rajeshwari Kulkarni,
+contactnumber:0821-2421104,
+location:"Devaraja Mohalla, near K.R. Circle",
+timings: 10:00am-1:30pm,
+Specialist : General Physician.
+
+570002-->
+Name:DR. Arvind Deshpande,
+contactnumber:0821-2513290,
+location:"Gokulam 2nd Stage, opposite Contour Road",
+timings: 5:30pm-8:30pm,
+Specialist : Cardiologist.
+
+570003-->
+Name:DR. Meenakshi Rao,
+contactnumber:0821-2581422,
+location:"Note Mudran Nagar, near RBI Gate",
+timings: 9:30am-1:00pm,
+Specialist : Dermatologist.
+
+570004-->
+Name:DR. Pradeep Gowda,
+contactnumber:0821-2334510,
+location:"Lakshmipuram, near Ballal Circle",
+timings: 6:00pm-9:00pm,
+Specialist : Orthopedic.
+
+570005-->
+Name:DR. Kavitha Murthy,
+contactnumber:0821-2419081,
+location:"Mysore University Road, beside Crawford Hall",
+timings: 10:30am-2:00pm,
+Specialist : Gynecologist.
+
+570006-->
+Name:DR. Harishankar Bhat,
+contactnumber:0821-2412267,
+location:"Manasagangothri, near RIE Main Gate",
+timings: 4:30pm-7:30pm,
+Specialist : Neurologist.
+
+570007-->
+Name:DR. Farhan Ahmed,
+contactnumber:0821-2456712,
+location:"Narasimharaja Mohalla, near Fountain Circle",
+timings: 5:00pm-8:30pm,
+Specialist : Pediatrician.
